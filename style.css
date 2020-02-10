@@ -8,6 +8,7 @@ body {
   background-position: center;
   background-size: cover;
   overflow: hidden; 
+  opacity: 0.4;
 }
 
 h5{
