@@ -3,11 +3,13 @@
 body {
   font-family: 'Poppins', sans-serif;
   background-image: url("https://github.com/Brocoliman/Portfolio/blob/master/channel_icon.jpg?raw=true");
-  color: #FFFFFF;
+  color: #FF0000;
 }
 
 h5{
   font-size: 15px;
+  border-style: solid
+  
 }
 
 
