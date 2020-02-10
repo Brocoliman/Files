@@ -2,10 +2,14 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  background-image: "https://github.com/Brocoliman/Portfolio/blob/master/channel_icon.jpg?raw=true";
+  background-image: url("https://github.com/Brocoliman/Portfolio/blob/master/channel_icon.jpg?raw=true");
 }
 
 h5{
   font-size: 15px;
+  color: #FFFFFF;
+}
+
+ul{
   color: #FFFFFF;
 }
