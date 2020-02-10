@@ -7,13 +7,13 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  overflow: hidden; 
-  opacity: 0.4;
 }
 
 h5{
   font-size: 15px;
   border-style: dashed; 
 }
-
+div#seventh{
+  opacity: 0.4;
+}
 
