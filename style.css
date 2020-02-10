@@ -4,7 +4,7 @@ body {
   font-family: 'Poppins', sans-serif;
   background-image: url("https://github.com/Brocoliman/Portfolio/blob/master/channel_icon.jpg?raw=true");
   color: #FFFFFF;
-  background-image: no-repeat;
+  background-repeat: no-repeat;
 }
 
 h5{
