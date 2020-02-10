@@ -5,6 +5,7 @@ body {
   background-image: url("https://github.com/Brocoliman/Portfolio/blob/master/channel_icon.jpg?raw=true");
   color: #FFFFFF;
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h5{
